@@ -1,0 +1,82 @@
+[
+  {
+    "external_id": "TCK-001",
+    "title": "Water leakage in bathroom",
+    "body": "There is a strong water leak near the sink. The flow is constant and the floor is wet.",
+    "author": "marco",
+    "created_at": "2025-01-15T08:24:00",
+    "where_tag": "building 1"
+  },
+  {
+    "external_id": "TCK-002",
+    "title": "Computer not turning on",
+    "body": "The pc does not start even when pressing the power button. Possible hardware error or power failure.",
+    "author": "luca",
+    "created_at": "2025-01-16T10:41:00",
+    "where_tag": "building 2"
+  },
+  {
+    "external_id": "TCK-003",
+    "title": "Payment error at the front desk",
+    "body": "Customer attempted to pay twice. The system showed a payent eror and the card was rejected.",
+    "author": "giulia",
+    "created_at": "2025-01-16T14:02:00",
+    "where_tag": "building 3"
+  },
+  {
+    "external_id": "TCK-004",
+    "title": "Broken pipe behind the wall",
+    "body": "We suspect a pipe bursts because water pressure is low and a strange noise comes from the kitchen wall.",
+    "author": "andrea",
+    "created_at": "2025-01-17T09:18:00",
+    "where_tag": "building 1"
+  },
+  {
+    "external_id": "TCK-005",
+    "title": "Severe internet lag",
+    "body": "Internet connection drops every few minutes. Multiple users report poor connection and slow loading.",
+    "author": "francesca",
+    "created_at": "2025-01-17T11:37:00",
+    "where_tag": "building 2"
+  },
+  {
+    "external_id": "TCK-006",
+    "title": "Dangerous exposed cables",
+    "body": "Several electrical cables are visible in the hallway. This is dangerous and could cause an accident.",
+    "author": "marco",
+    "created_at": "2025-01-18T08:52:00",
+    "where_tag": "building 3"
+  },
+  {
+    "external_id": "TCK-007",
+    "title": "Heating not working",
+    "body": "Room temperature is very low. The heating system seems to be broken since yesterday evening.",
+    "author": "luca",
+    "created_at": "2025-01-18T13:11:00",
+    "where_tag": "building 1"
+  },
+  {
+    "external_id": "TCK-008",
+    "title": "Layout misalignment on display",
+    "body": "The dashboard layout is shifted to the left. Buttons overlap making navigation annoying.",
+    "author": "giulia",
+    "created_at": "2025-01-19T09:45:00",
+    "where_tag": "building 2"
+  },
+  {
+    "external_id": "TCK-009",
+    "title": "Fire alarm false trigger",
+    "body": "The fire alarm activated without any smoke or heat. Possible sensor error or malfunction.",
+    "author": "andrea",
+    "created_at": "2025-01-19T15:03:00",
+    "where_tag": "building 3"
+  },
+  {
+    "external_id": "TCK-010",
+    "title": "Bathroom door not closing",
+    "body": "The bathroom door is misaligned and does not close properly. Requires adjustment or replacement.",
+    "author": "francesca",
+    "created_at": "2025-01-20T07:59:00",
+    "where_tag": "building 1"
+  }
+]
